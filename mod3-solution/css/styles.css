@@ -1,12 +1,11 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #61122f;
-	font-family: 'Oxygen', sans-serif;
+	background-color: #9AFEDA;
 }
 
 #header-nav {
-	background-color: #f6b319; /** yellow **/
+	background-color: #259169; /** yellow **/
 	border-radius: 0;          /** No round border **/
 	border: 0;
 }
@@ -28,7 +27,7 @@ nav#header-nav>div.container{
 
 .navbar-brand h1 {
 	font-family: 'Lora', serif;
-	color: #557c3e;
+	color: #6E150E;
 	font-size: 1.8em;
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #222;
@@ -76,6 +75,7 @@ nav#header-nav>div.container{
 .main-container {
 	height: 1000px;
 	margin: 0px auto 0px;
+	color: black;
 }
 
 section.row {
