@@ -72,6 +72,10 @@ nav#header-nav>div.container{
 	border: 1px solid #61122f;
 }
 
+nav#header-nav>div.container {
+	margin-left: 0px;
+}
+
 .main-container {
 	height: 1000px;
 	margin: 0px auto 0px;
